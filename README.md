@@ -6,6 +6,7 @@
 
 ## 프로젝트 폴더 구조
 
+```text
 AI_PROJECT/
 ├── models/
 │ ├── yolov8n.pt # YOLOv8n 사전 훈련 가중치 파일
@@ -24,6 +25,7 @@ AI_PROJECT/
 │ └── utils.py # 보조 함수/클래스 (예: OpenCV 이미지 처리 함수 등)
 ├── requirements.txt # 프로젝트에 필요한 라이브러리 목록
 └── README.md # 프로젝트 설명 및 실행 방법
+```
 
 ## 역할 분담
 
