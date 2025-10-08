@@ -2,7 +2,7 @@
 
 ## 목표: 공유 킥보드 2인 이상 동승 감지 및 경고 알림 시스템 개발
 
-## 개발 환경: YOLOv8n, Python, openCV
+## 개발 환경: YOLOv8n![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ## 프로젝트 폴더 구조
 
