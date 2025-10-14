@@ -4,6 +4,8 @@
 
 ## 개발 환경: YOLOv8n![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
+## 킥보드 데이터셋 : https://universe.roboflow.com/kts-data/kickboard-data | https://universe.roboflow.com/new-workspace-zuae9/last-jevns
+
 ## 프로젝트 폴더 구조
 
 ```text
