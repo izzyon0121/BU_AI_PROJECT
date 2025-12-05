@@ -1,0 +1,8 @@
+# YOLO dataset YAML (person_with_kickboard)
+
+path: C:/Users/hjk02/Desktop/spv/datasets/kick_safety
+
+train: images/train
+val: images/val
+
+names: ['2-person_with_kickboard', 'helmet_O', 'helmet_X', 'person_with_kickboard']
